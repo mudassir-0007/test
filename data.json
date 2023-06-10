@@ -1,0 +1,71 @@
+{
+  "users": [
+    {
+      "name": "John",
+      "bloodGroup": "A+",
+      "city": "New York",
+      "phone": "1234567890",
+      "amount": 100,
+      "address": "123 Street"
+    },
+    {
+      "name": "Jane",
+      "bloodGroup": "B-",
+      "city": "Los Angeles",
+      "phone": "9876543210",
+      "amount": 50,
+      "address": "456 Avenue"
+    },
+    {
+      "name": "TEST",
+      "bloodGroup": "A+0.1",
+      "city": "HYDERABAD",
+      "phone": "000000",
+      "amount": "100010001000100010001000100010001000100010001000100010001000100010001000100010001000500500500500500500500500500500500",
+      "address": "dummy"
+    },
+    {
+      "name": "TEST",
+      "bloodGroup": "A+0.1",
+      "city": "HYDERABAD",
+      "phone": "000000",
+      "amount": "1000",
+      "address": "dummy"
+    },
+    {
+      "name": "TEST1",
+      "bloodGroup": "B+",
+      "city": "BANGALORE",
+      "phone": "7013971891",
+      "amount": 0,
+      "address": "fdgfdg"
+    }
+  ],
+  "bloodBanks": [
+    {
+      "name": "Blood Bank 1",
+      "bloodGroup": "A+",
+      "city": "City 1",
+      "email": "bloodbank1@example.com"
+    },
+    {
+      "name": "Blood Bank 2",
+      "bloodGroup": "B-",
+      "city": "Hyderabad",
+      "email": "184389@sasi.edu.in",
+      "address":"chiranjeevi blood bank,madhapur"
+    },
+    {
+      "name": "Blood Bank 3",
+      "bloodGroup": "O+",
+      "city": "City 1",
+      "email": "mudassirskmd108@gmail.com"
+    },
+    {
+      "name": "Blood Bank 4",
+      "bloodGroup": "B-",
+      "city": "Hyderabad",
+      "email": "mudassirskmd108@gmail.com"
+    }
+  ]
+}
