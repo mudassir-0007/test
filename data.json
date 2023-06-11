@@ -15,30 +15,6 @@
       "phone": "9876543210",
       "amount": 50,
       "address": "456 Avenue"
-    },
-    {
-      "name": "TEST",
-      "bloodGroup": "A+0.1",
-      "city": "HYDERABAD",
-      "phone": "000000",
-      "amount": "100010001000100010001000100010001000100010001000100010001000100010001000100010001000500500500500500500500500500500500",
-      "address": "dummy"
-    },
-    {
-      "name": "TEST",
-      "bloodGroup": "A+0.1",
-      "city": "HYDERABAD",
-      "phone": "000000",
-      "amount": "1000",
-      "address": "dummy"
-    },
-    {
-      "name": "TEST1",
-      "bloodGroup": "B+",
-      "city": "BANGALORE",
-      "phone": "7013971891",
-      "amount": 0,
-      "address": "fdgfdg"
     }
   ],
   "bloodBanks": [
@@ -53,7 +29,7 @@
       "bloodGroup": "B-",
       "city": "Hyderabad",
       "email": "184389@sasi.edu.in",
-      "address":"chiranjeevi blood bank,madhapur"
+      "address": "chiranjeevi blood bank,madhapur"
     },
     {
       "name": "Blood Bank 3",
@@ -66,6 +42,20 @@
       "bloodGroup": "B-",
       "city": "Hyderabad",
       "email": "mudassirskmd108@gmail.com"
+    }
+  ],
+  "donors": [
+    {
+      "name": "test",
+      "email": "184389@sasi.edu.in",
+      "bloodGroup": "B-",
+      "city": "Hyderabad"
+    },
+    {
+      "name": "test",
+      "email": "mudassirskmd108@gmail.com",
+      "bloodGroup": "B-",
+      "city": "Hyderabad"
     }
   ]
 }
